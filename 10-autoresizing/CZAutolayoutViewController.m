@@ -31,6 +31,7 @@
     blueView.translatesAutoresizingMaskIntoConstraints = NO;
     redView.translatesAutoresizingMaskIntoConstraints = NO;
     
+    
     // 创建并添加约束
     // 1. 创建蓝色view和约束
     // 1.1 创建蓝色view高度的约束
